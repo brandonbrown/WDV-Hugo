@@ -1,0 +1,4 @@
+baseURL = 'http://briansblog.org/'
+languageCode = 'en-us'
+title = 'Brians World'
+theme = 'ananke'
