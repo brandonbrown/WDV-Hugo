@@ -6,6 +6,5 @@ draft: true
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+This is my brand new blog page! I am excited to be here discussing tech and other various
+things about my life. I hope that this will count as my unique edit!
