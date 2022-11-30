@@ -1,4 +1,4 @@
-baseURL = 'http://briansblog.org/'
+baseURL = 'https://barkerbrian-fs.github.io/WDV-Hugo/'
 languageCode = 'en-us'
 title = 'Brians World'
 theme = 'ananke'
